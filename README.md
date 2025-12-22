@@ -3,7 +3,6 @@
 Professional telemetry overlay for iRacing with real-time input visualization and performance analysis.
 
 ![Version](https://img.shields.io/github/v/release/waleedsulehria/iracing-telemetry-widget-releases)
-![Downloads](https://img.shields.io/github/downloads/waleedsulehria/iracing-telemetry-widget-releases/total)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ---
