@@ -53,16 +53,12 @@ Professional telemetry overlay for iRacing with real-time input visualization an
 3. Start iRacing and join a session
 4. The overlay will automatically connect and display telemetry
 
-### Customization
-- **Move Windows:** Drag any widget to reposition
-- **Resize:** Use window borders to resize widgets
-- **Toggle Widgets:** Right-click to show/hide specific widgets
-- **Settings:** Access settings through the system tray icon
-
-### Saving Reference Laps
-1. Complete a lap you want to use as reference
-2. Click "Save Reference Lap" in the overlay
-3. The lap will be saved for future comparison
+### How to
+- **Move Windows:** Drage from the top black bar to move window
+- **Resize:** Use small yellow box on the bottom right to resize
+- **Toggle Widgets:** Turn On/Off specific widgets from the settings icon
+- **Lap Comparison:** Download a lap from Garage61 (export to csv) -> Settings -> Pick Reference CSV (Dashed lines are comparison lap inputs while solid lines are your real time inputs)
+- **ABS and Pitlimiter:** Whenever `ABS` is activated while braking , brake lines, brake bar and top bar will start pulsating on activation. Whenever pit limiter is turned on RPM Widget will start blinking.
 
 ---
 
