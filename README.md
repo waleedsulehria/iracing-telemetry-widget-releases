@@ -67,13 +67,10 @@ Professional telemetry overlay for iRacing with real-time input visualization an
 ---
 
 ## 📸 Screenshots
+<img width="957" height="144" alt="Screenshot 2025-12-22 033926" src="https://github.com/user-attachments/assets/954b43e6-ed42-455f-a4d6-0d2559ac318c" />
 
-> **Note:** Add screenshots here showing:
-> - Main overlay in action
-> - Steering wheel widget
-> - Track map
-> - Brake comparison graph
-> - Input bars
+<img width="957" height="144" alt="Screenshot 2025-12-22 050846" src="https://github.com/user-attachments/assets/c2f4e1d7-fe87-4fb5-87b8-557ea36f7c0e" />
+
 
 ---
 
