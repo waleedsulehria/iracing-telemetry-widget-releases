@@ -63,10 +63,102 @@ Professional telemetry overlay for iRacing with real-time input visualization an
 
 ---
 
+## ⚙️ Settings Guide
+
+### **How to Access Settings**
+Click the **⚙️ gear icon** in the top-left corner of the overlay.
+
+---
+
+### **Widget Visibility**
+Toggle which widgets appear on your overlay:
+- ✅ **Driver Info** - Your name, car number, and manufacturer logo
+- ✅ **Input Bars** - Throttle and brake bars (changes color when ABS activates)
+- ✅ **Steering Wheel** - Real-time steering visualization
+- ✅ **Lap Times** - Current, last, and best lap times
+- ✅ **Gear/RPM** - Current gear with RPM gauge and shift lights
+- ✅ **Driver Controls** - Brake bias, TC level, ABS level
+
+**Tip:** Uncheck widgets you don't need to make the overlay smaller!
+
+---
+
+### **Comparison Settings**
+
+#### **Reference Lap**
+- Click **"Load Reference Lap"** to select a CSV file from a previous lap
+- The overlay will compare your current inputs to the reference lap
+- Shows brake/throttle comparison graphs in real-time
+
+#### **Toggle Comparison**
+- Use the **"Show/Hide Comparison"** button to toggle the comparison graphs
+- Hotkey: **Alt+C** (customizable)
+
+---
+
+### **Track Markers**
+
+#### **What are Track Markers?**
+Track markers let you set audio alerts at specific points on the track. When you approach a marker, you'll hear a beep to remind you of important points (braking zones, turn-in points, etc.).
+
+#### **Setting Up Markers**
+
+**1. Set the "Mark Position" Hotkey:**
+- Click the **green "Mark Position"** button in settings
+- Press a key (e.g., `Alt+M`) or a wheel button
+- The button will show your chosen hotkey
+
+**2. Mark a Position:**
+- Drive to the point you want to mark
+- Press your hotkey
+- You'll hear a beep confirming the marker was set
+- If there's already a marker within 50 meters, it will be replaced
+
+**3. Clear Markers:**
+
+**Clear Closest Marker:**
+- Click the **orange "Clear Closest"** button to set a hotkey
+- Press the hotkey while driving to remove the nearest marker
+- Great for removing one marker without clearing all
+
+**Clear All Markers:**
+- Click the **red "Clear All"** button to set a hotkey
+- Press the hotkey to remove ALL markers at once
+- Use this to start fresh
+
+#### **Warning Distance**
+- Adjust the slider to set how far before a marker the beep plays
+- Range: 1-100 meters
+- Default: 50 meters
+- Example: If set to 30m, the beep plays when you're 30 meters away from the marker
+
+---
+
+## 🎮 Hotkey Examples
+
+### **Keyboard Hotkeys:**
+- `Alt+M` - Mark position
+- `Alt+C` - Toggle comparison
+- `Ctrl+Shift+X` - Clear all markers
+- `F6` - Close overlay
+- `Alt+F7` - Toggle visibility
+
+### **Wheel Button Hotkeys:**
+- `joy0_btn12` - Button 12 on your first joystick/wheel
+- `joy0_btn13` - Button 13 on your first joystick/wheel
+- The app will show you the button name when you press it during setup
+
+**Tip:** You can mix keyboard and wheel buttons! For example:
+- Mark position: `joy0_btn12` (wheel button)
+- Clear closest: `joy0_btn13` (wheel button)
+- Clear all: `Ctrl+Shift+X` (keyboard)
+
 ## 📸 Screenshots
 <img width="957" height="144" alt="Screenshot 2025-12-22 033926" src="https://github.com/user-attachments/assets/954b43e6-ed42-455f-a4d6-0d2559ac318c" />
 
 <img width="957" height="144" alt="Screenshot 2025-12-22 050846" src="https://github.com/user-attachments/assets/c2f4e1d7-fe87-4fb5-87b8-557ea36f7c0e" />
+
+<img width="215" height="585" alt="Screenshot 2026-01-06 201745" src="https://github.com/user-attachments/assets/34a1df7c-0db0-46d2-8981-d4a3996576bb" />
 
 
 ---
