@@ -140,7 +140,6 @@ Track markers let you set audio alerts at specific points on the track. When you
 - `Alt+M` - Mark position
 - `Alt+C` - Toggle comparison
 - `Ctrl+Shift+X` - Clear all markers
-- `F6` - Close overlay
 - `Alt+F7` - Toggle visibility
 
 ### **Wheel Button Hotkeys:**
