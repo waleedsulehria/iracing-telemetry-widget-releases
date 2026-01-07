@@ -1,6 +1,6 @@
 # 🏎️ iRacing Input Telemetry Widget
 
-Professional telemetry overlay for iRacing with real-time input visualization and performance analysis.
+Telemetry overlay for iRacing with real-time input visualization and performance analysis.
 
 ![Version](https://img.shields.io/github/v/release/waleedsulehria/iracing-telemetry-widget-releases)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -217,7 +217,8 @@ This project is licensed under the MIT License.
 
 - Built with [PySide6](https://www.qt.io/qt-for-python)
 - Uses [pyirsdk](https://github.com/kutu/pyirsdk) for iRacing telemetry
-- Inspired by professional racing telemetry systems
+- Inspired by professional racing telemetry systems used by a dear friend Michael Shumway in his Lamborghini GT3 RaceCar
+  [![IMAGE ALT TEXT](http://img.youtube.com/vi/Se3z8jnuCMo/0.jpg)](http://www.youtube.com/watch?v=Se3z8jnuCMo "LVRY GT3 - 2:50.73 Qualifying Lap at BBM")
 
 ---
 
