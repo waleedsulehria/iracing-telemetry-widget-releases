@@ -12,14 +12,14 @@ Telemetry overlay for iRacing with real-time input visualization and performance
 
 ### 🏁 Real-Time Input Visualization, Controls and Performance analysis
 - **Steering Wheel Display** - Visual representation of steering angle with smooth animations
-- **Input Bars** - Live throttle, brake, and clutch input monitoring
+- **Input Bars** - Live throttle and brake input monitoring, also displays ABS on the wherever it is activated.
+- **Reference Lap Loading** - Load and compare against saved reference laps (Requires downloading csv lap files from Garage61)
 - **Precision Tracking** - See exactly what inputs you're making in real-time
 - **Gear & RPM Display** - Current gear and engine RPM with visual indicators
 - **Brake Bias Display** - Real-time brake bias percentage
 - **TC & ABS Levels** - Traction control and ABS settings display
 - **ABS Activation Indicator** - Real-time visual feedback when ABS is actively engaged
-- **Reference Lap Loading** - Load and compare against saved reference laps (Requires downloading csv lap files from Garage61)
-
+- **Telemetry Markers On Track** - Mark points of interests, custom brake points etc while on track.
 
 ---
 
